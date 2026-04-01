@@ -5,7 +5,7 @@
 
 **An Honorable (but slightly clunky) Scout for the eDominations Universe.**
 
-Sir eDom is a specialized Discord bot designed to traverse the eDominations API. He identifies strategic openings for Resistance Wars (RW) and sniffs out the country stats across the globe to keep informed.
+Sir eDom is a specialized Discord bot designed to traverse the eDominations API. He identifies strategic openings for Resistance Wars (RW) and sniffs out the country stats across the globe to keep you informed.
 
 ---
 
